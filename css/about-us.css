@@ -159,6 +159,7 @@ body { background: #eeeeee; }
 }
 .profile-card-1 h2 {
  margin-bottom: 0px;
+ margin-top:20%;
 }
 .profile-card-1 h2 small {
  display: block;
@@ -177,7 +178,7 @@ body { background: #eeeeee; }
 .profile-card-1 .icon-block{
    float:left;
    width:100%;
-   margin-top:40%;
+   margin-top:60%;
 }
 .profile-card-1 .icon-block a{
    text-decoration:none;
