@@ -204,6 +204,25 @@ body { background: #eeeeee; }
    color: rgb(0, 0, 0);
 }
 
+#about .box {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#about .text {
+}
+
+#about .pict {
+  width: 30%;
+  margin-left: 3%;
+}
+
+#about .pict img {
+  width: 100%;
+  height:auto;
+}
+
 /* ------------------------------------------------------------------ */
 /* i. side ber
 /* ------------------------------------------------------------------ */
