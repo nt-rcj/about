@@ -210,15 +210,15 @@ body { background: #eeeeee; }
   justify-content: space-between;
 }
 
-#about .text {
+.text {
 }
 
-#about .pict {
+.pict {
   width: 30%;
   margin-left: 3%;
 }
 
-#about .pict img {
+.pict img {
   width: 100%;
   height:auto;
 }
