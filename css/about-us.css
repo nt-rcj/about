@@ -216,10 +216,11 @@ body { background: #eeeeee; }
 .pict {
   width: 30%;
   margin-left: 3%;
+  margin-top: 150px; 
 }
 
 .pict img {
-  width: 100%;
+  max-width: 400px;
   height:auto;
 }
 
